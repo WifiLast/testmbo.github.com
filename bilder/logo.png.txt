@@ -1,0 +1,2 @@
+This is a placeholder. Replace with actual MBO Trinity logo.
+For now, the CSS styling will handle the appearance.

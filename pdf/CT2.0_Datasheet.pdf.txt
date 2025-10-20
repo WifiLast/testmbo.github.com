@@ -1,0 +1,2 @@
+Placeholder for Cooling Tower 2.0 Datasheet PDF
+Replace this file with the actual PDF file named CT2.0_Datasheet.pdf
